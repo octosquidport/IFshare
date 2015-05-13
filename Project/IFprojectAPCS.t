@@ -22,6 +22,10 @@
  *   If you want a truly minimal set of definitions, create another new
  *   game in TADS Workbench, and choose the "advanced" version when asked
  *   for the type of starter game to create.  
+ 
+ adding stuff
+ 
+ 
  */
 
 /* 
