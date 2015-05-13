@@ -41,3 +41,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Tads object files
+*.t3o
+*.t3s
+*.t3
+# Tads config stuff
+*.t3m
+*.tdbconfig
