@@ -1,6 +1,6 @@
 #charset "us-ascii"
 
-/*
+/*   added stuff here instead
  *   Copyright (c) 1999, 2002 by Michael J. Roberts.  Permission is
  *   granted to anyone to copy and use this file for any purpose.  
  *   
