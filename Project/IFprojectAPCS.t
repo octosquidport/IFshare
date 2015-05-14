@@ -1,6 +1,6 @@
 #charset "us-ascii"
 
-/*   added stuff here instead
+/*
  *   Copyright (c) 1999, 2002 by Michael J. Roberts.  Permission is
  *   granted to anyone to copy and use this file for any purpose.  
  *   
@@ -22,10 +22,6 @@
  *   If you want a truly minimal set of definitions, create another new
  *   game in TADS Workbench, and choose the "advanced" version when asked
  *   for the type of starter game to create.  
- 
- adding stuff
- 
- 
  */
 
 /* 
@@ -52,7 +48,7 @@
  *   the name of your game, your byline, and so on.  
  */
 versionInfo: GameID
-    IFID = '5d29e2e8-bff3-4ffa-8d98-222b5c9b4871'
+    IFID = '33bcfd79-6ae2-4b26-8141-269ea586db8f'
     name = 'Your New Game Title'
     byline = 'by Your Name'
     htmlByline = 'by <a href="mailto:your-email@host.com">
