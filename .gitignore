@@ -47,5 +47,4 @@ Temporary Items
 *.t3s
 *.t3
 # Tads config stuff
-*.t3m
 *.tdbconfig
