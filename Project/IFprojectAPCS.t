@@ -310,6 +310,8 @@ hallway: Room 'Hallway'
     north = kitchen
 ;
 
++
+
 /*
  *   The kitchen.
  */
