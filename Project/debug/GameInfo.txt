@@ -1,0 +1,13 @@
+IFID: 33bcfd79-6ae2-4b26-8141-269ea586db8f
+Name: Your New Game Title
+Byline: by Your Name
+HtmlByline: by <a href="mailto:your-email@host.com"> Your Name</a>
+AuthorEmail: Your Name <your-email@host.com>
+Desc: Put a brief "blurb" about your game here
+HtmlDesc: Put a brief "blurb" about your game here
+Version: 1
+ReleaseDate: 2015-08-07
+Language: en-US
+LicenseType: Freeware
+CopyingRules: Nominal cost only; compilations allowed
+PresentationProfile: Default
